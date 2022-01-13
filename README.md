@@ -11,14 +11,19 @@ Entre em contato comigo:
 <a href="mailto:vanessaleticiagallo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a href="https://api.whatsapp.com/send?phone=5516992221259&text=Oi%20vanessa!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
 
-## Portfólio
+## 📄 Portfólio
 
 Meu portfólio ainda está em construção no momento, logo ele estará completinho por aqui 🚀
 
 Maaas... se você quiser ver alguns dos meus trabalhos de design usando wordpress e elementor [clique aqui](https://linktr.ee/vgallo) e acesse uma listinha.
 
+## ✍ Blog
 
-## Minhas Skills
+Escrevo e contribuo para o site Computer Science Master criando tutoriais e compartilhando conhecimento sobre desenvolvimento web front-end. 
+
+- [Clique aqui para acessar!](https://www.computersciencemaster.com.br/cursos-desenvolvimento-web/)
+
+## 🌟 Minhas Skills
 
 ![Vanessa GitHub Stats](https://github-readme-stats.vercel.app/api?username=vlgallo&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlgallo&layout=compact)](https://github.com/vlgallo/github-readme-stats)
