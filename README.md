@@ -1,8 +1,10 @@
 # Olá 👋 !
 
-Meu nome é Vanessa Letícia Gallo e sou desenvolvedora front-end em transição de carreira. Atualmente, moro no Brasil e atualmente estou buscando desenvolver minhas habilidades na área de ciência da computação principalmente no desenvolvimento de aplicativos para web. 
+Meu nome é Vanessa Leticia Gallo, sou originalmente bacharela em Química, mas em transição de carreira para a área de front-end. Atualmente, moro no Brasil e estou buscando desenvolver minhas habilidades na área de ciência da computação, principalmente no desenvolvimento de aplicativos para web. 
 
-✨ Estou em busca de uma oportunidade como dev 🙃 quer saber mais sobre mim?
+✨ Estou em busca de uma oportunidade como dev 🙃
+
+Quer saber mais sobre mim?
 
 <a href="https://www.linkedin.com/in/vanessa-leticia-gallo-131763174/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
@@ -13,13 +15,13 @@ Entre em contato comigo:
 
 ## 📄 Portfólio
 
-Meu portfólio ainda está em construção no momento, logo ele estará completinho por aqui 🚀
+Meu portfólio ainda está em construção no momento, logo estará completinho por aqui 🚀
 
-Maaas... se você quiser ver alguns dos meus trabalhos de design usando wordpress e elementor [clique aqui](https://linktr.ee/vgallo) e acesse uma listinha.
+Maaas... se você quiser ver alguns dos meus trabalhos de design usando WordPress/Elementor [clique aqui](https://linktr.ee/vgallo)e acesse uma listinha.
 
 ## ✍ Blog
 
-Escrevo e contribuo para o site Computer Science Master criando tutoriais e compartilhando conhecimento sobre desenvolvimento web front-end. 
+Escrevo e contribuo para o site Computer Science Master criando tutoriais e compartilhando conhecimento sobre desenvolvimento web front-end. Inclusive, estou escrevendo tudo que achei importante no meu aprendizado.
 
 - [Clique aqui para acessar!](https://www.computersciencemaster.com.br/cursos-desenvolvimento-web/)
 
