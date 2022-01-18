@@ -27,8 +27,8 @@ Escrevo e contribuo para o site Computer Science Master criando tutoriais e comp
 
 ## 🌟 Minhas Skills
 
-![Vanessa GitHub Stats](https://github-readme-stats.vercel.app/api?username=vlgallo&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vlgallo&layout=compact)](https://github.com/vlgallo/github-readme-stats)
+![Vanessa GitHub Stats](https://github-readme-stats.vercel.app/api?username=VLGallo&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VLGallo&layout=compact)](https://github.com/VLGallo/github-readme-stats)
 
 #### Linguagens/tecnologias
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
