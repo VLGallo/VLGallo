@@ -17,7 +17,7 @@ Entre em contato comigo:
 
 Meu portfólio ainda está em construção no momento, logo estará completinho por aqui 🚀
 
-Maaas... se você quiser ver alguns dos meus trabalhos de design usando WordPress/Elementor [clique aqui](https://linktr.ee/vgallo)e acesse uma listinha.
+Maaas... se você quiser ver alguns dos meus trabalhos de design usando WordPress/Elementor [clique aqui](https://linktr.ee/vgallo) e acesse uma listinha.
 
 ## ✍ Blog
 
