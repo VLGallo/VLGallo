@@ -1,8 +1,8 @@
 # Olá 👋 !
 
-Meu nome é Vanessa Leticia Gallo, sou originalmente bacharela em Química, mas em transição de carreira para a área de front-end. Atualmente, moro no Brasil e estou buscando desenvolver minhas habilidades na área de ciência da computação, principalmente no desenvolvimento de aplicativos para web. 
+Meu nome é Vanessa Leticia Gallo, sou originalmente bacharela em Química, mas em transição de carreira para a área de Testes e Quality Assurance. Atualmente, moro no Brasil e estou buscando desenvolver minhas habilidades na área de ciência da computação, principalmente no teste de softwares. 
 
-✨ Estou em busca de uma oportunidade como dev 🙃
+✨ Estou em busca de uma oportunidade como testadora 🙃
 
 Quer saber mais sobre mim?
 
